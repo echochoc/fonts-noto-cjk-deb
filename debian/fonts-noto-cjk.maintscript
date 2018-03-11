@@ -1,0 +1,1 @@
+rm_conffile /etc/fonts/conf.avail/70-fonts-noto-cjk.conf 1:20170601+repack1-2~

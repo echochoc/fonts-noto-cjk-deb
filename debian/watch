@@ -1,0 +1,3 @@
+version = 3
+opts=dversionmangle=s/\+repack\d*//,repacksuffix=+repack2 \
+https://github.com/googlei18n/noto-cjk/releases .*/v?(\d\S*)\.tar\.gz

@@ -1,0 +1,7 @@
+NotoSansCJK-Bold.ttc /usr/share/fonts/opentype/noto/
+NotoSansCJK-Regular.ttc /usr/share/fonts/opentype/noto/
+NotoSerifCJK-Bold.ttc /usr/share/fonts/opentype/noto/
+NotoSerifCJK-Regular.ttc /usr/share/fonts/opentype/noto/
+
+NEWS /usr/share/doc/fonts-noto-cjk/
+debian/70-fonts-noto-cjk.conf usr/share/fontconfig/conf.avail/
