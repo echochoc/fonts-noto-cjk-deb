@@ -1,3 +1,9 @@
+fonts-noto-cjk (2:2.001+repack1-1ppa1) bionic; urgency=medium
+
+  * New upstream version 2.001+repack1
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Thu, 18 Apr 2019 00:02:12 +0900
+
 fonts-noto-cjk (1:20170601+repack1-2) unstable; urgency=medium
 
   [ Jeremy Bicha ]
